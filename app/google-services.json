@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "195867691760",
+    "project_id": "minha-grana-f5b2d",
+    "storage_bucket": "minha-grana-f5b2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195867691760:android:044862ff06f52393a05035",
+        "android_client_info": {
+          "package_name": "com.example.minhagrana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195867691760-o5q138elv2gvdvjl1cobfn90eocv1tpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minhagrana",
+            "certificate_hash": "2992251240c30b97b2bf0c6c1759f0b061705eef"
+          }
+        },
+        {
+          "client_id": "195867691760-o0lide446gu7hqgr7n818d9e866ls3jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZGLD1ZSRZRPge93Zt-djATh4gENV5c2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195867691760-o0lide446gu7hqgr7n818d9e866ls3jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
